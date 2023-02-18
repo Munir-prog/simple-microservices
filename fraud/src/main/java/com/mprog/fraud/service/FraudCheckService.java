@@ -1,7 +1,7 @@
 package com.mprog.fraud.service;
 
 import com.mprog.fraud.model.FraudCheckHistory;
-import com.mprog.repository.FraudCheckHistoryRepository;
+import com.mprog.fraud.repository.FraudCheckHistoryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
